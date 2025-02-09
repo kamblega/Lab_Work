@@ -1,1 +1,13 @@
-This is a test file
+Gaurav@Gaurav-Laptop MINGW64 ~/Desktop/Study/Study/SEM_2/SCSE/LogBook (main)
+$ git add Lab_3/Test_File.txt
+
+Gaurav@Gaurav-Laptop MINGW64 ~/Desktop/Study/Study/SEM_2/SCSE/LogBook (main)
+$ git commit -m "Added Lab_3 files"
+[main ba9c8a4] Added Lab_3 files
+ 1 file changed, 1 insertion(+)
+ create mode 100644 Lab_3/Test_File.txt
+
+Gaurav@Gaurav-Laptop MINGW64 ~/Desktop/Study/Study/SEM_2/SCSE/LogBook (main)
+$test
+
+
