@@ -1,4 +1,5 @@
 package com.sesc.unistudycircle.student_service.entities;
+
 import lombok.Data;
 
 

@@ -6,7 +6,9 @@ import com.sesc.unistudycircle.student_service.services.StudentService;
 import java.util.List;
 
 public interface StudentService {
-Student saveStudent(Student student);
-Student getStudentById(long studentId);
-List<Student> getAllStudents();
+    Student saveStudent ( Student student );
+
+    Student getStudentById ( long studentId );
+
+    List<Student> getAllStudents ( );
 }
