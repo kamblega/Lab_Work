@@ -2,12 +2,34 @@ Gaurav@Gaurav-Laptop MINGW64 ~/Desktop/Study/Study/SEM_2/SCSE/LogBook (main)
 $ git add Lab_3/Test_File.txt
 
 Gaurav@Gaurav-Laptop MINGW64 ~/Desktop/Study/Study/SEM_2/SCSE/LogBook (main)
-$ git commit -m "Added Lab_3 files"
-[main ba9c8a4] Added Lab_3 files
- 1 file changed, 1 insertion(+)
- create mode 100644 Lab_3/Test_File.txt
+$ git commit -m "Updated File"
+[main 5baf86f] Updated File
+ 1 file changed, 13 insertions(+), 1 deletion(-)
 
 Gaurav@Gaurav-Laptop MINGW64 ~/Desktop/Study/Study/SEM_2/SCSE/LogBook (main)
-$test
+$ git status
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
 
+nothing to commit, working tree clean
+
+Gaurav@Gaurav-Laptop MINGW64 ~/Desktop/Study/Study/SEM_2/SCSE/LogBook (main)
+$ ^[[200~git push origin main
+bash: $'\E[200~git': command not found
+
+Gaurav@Gaurav-Laptop MINGW64 ~/Desktop/Study/Study/SEM_2/SCSE/LogBook (main)
+$ git push origin main
+Enumerating objects: 7, done.
+Counting objects: 100% (7/7), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (4/4), 503 bytes | 503.00 KiB/s, done.
+Total 4 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/kamblega/Lab_Work.git
+   ba9c8a4..5baf86f  main -> main
+
+Gaurav@Gaurav-Laptop MINGW64 ~/Desktop/Study/Study/SEM_2/SCSE/LogBook (main)
+$
 
