@@ -1,0 +1,51 @@
+Gaurav@Gaurav-Laptop MINGW64 ~/Desktop/Study/Study/SEM_2/SCSE/LogBook (main)
+$ git add Lab_3/Test_File.txt
+
+Gaurav@Gaurav-Laptop MINGW64 ~/Desktop/Study/Study/SEM_2/SCSE/LogBook (main)
+$ git commit -m "Updated File"
+
+Gaurav@Gaurav-Laptop MINGW64 ~/Desktop/Study/Study/SEM_2/SCSE/LogBook (main)
+$ git status
+
+Gaurav@Gaurav-Laptop MINGW64 ~/Desktop/Study/Study/SEM_2/SCSE/LogBook (main)
+$ git push origin main
+
+Gaurav@Gaurav-Laptop MINGW64 ~/Desktop/Study/Study/SEM_2/SCSE/LogBook (main)
+$ git branch -r
+  origin/main
+
+Gaurav@Gaurav-Laptop MINGW64 ~/Desktop/Study/Study/SEM_2/SCSE/LogBook (main)
+$ git fetch origin
+From https://github.com/kamblega/Lab_Work
+ * [new branch]      Lab_3_DM_ORM -> origin/Lab_3_DM_ORM
+
+Gaurav@Gaurav-Laptop MINGW64 ~/Desktop/Study/Study/SEM_2/SCSE/LogBook (main)
+$ git checkout -b Lab_3_DM_ORM origin/Lab_3_DM_ORM
+M       Lab_2_DI/student-demo/student-demo/src/main/java/com/example/unidemo/StudentDemoApplication.java
+M       Lab_2_DI/student-demo/student-demo/src/main/java/com/sesc/unistudycircle/student_service/controllers/StudentController.java
+M       Lab_2_DI/student-demo/student-demo/src/main/java/com/sesc/unistudycircle/student_service/entities/Student.java
+M       Lab_2_DI/student-demo/student-demo/src/main/java/com/sesc/unistudycircle/student_service/services/StudentServiceImpl.java
+M       Lab_3_DM_ORM/mapping
+branch 'Lab_3_DM_ORM' set up to track 'origin/Lab_3_DM_ORM'.
+Switched to a new branch 'Lab_3_DM_ORM'
+
+Gaurav@Gaurav-Laptop MINGW64 ~/Desktop/Study/Study/SEM_2/SCSE/LogBook (Lab_3_DM_ORM)
+$ git branch -r
+  origin/Lab_3_DM_ORM
+  origin/main
+
+Gaurav@Gaurav-Laptop MINGW64 ~/Desktop/Study/Study/SEM_2/SCSE/LogBook (Lab_3_DM_ORM)
+$ git branch
+* Lab_3_DM_ORM
+  main
+  
+  Gaurav@Gaurav-Laptop MINGW64 ~/Desktop/Study/Study/SEM_2/SCSE/LogBook (Lab_3_DM_ORM)
+$ git checkout main
+M       Lab_3_DM_ORM/mapping
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+
+Gaurav@Gaurav-Laptop MINGW64 ~/Desktop/Study/Study/SEM_2/SCSE/LogBook (main)
+$ git branch
+  Lab_3_DM_ORM
+* main
