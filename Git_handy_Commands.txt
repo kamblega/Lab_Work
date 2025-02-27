@@ -49,3 +49,17 @@ Gaurav@Gaurav-Laptop MINGW64 ~/Desktop/Study/Study/SEM_2/SCSE/LogBook (main)
 $ git branch
   Lab_3_DM_ORM
 * main
+
+
+git add -A
+git status
+
+
+git commit -m "Final update for week3 submodule"
+git push origin main
+
+git add Lab_3_DM_ORM/mngdb/week3
+git commit -m "Updating submodule reference for week3"
+git push origin main
+git status
+
