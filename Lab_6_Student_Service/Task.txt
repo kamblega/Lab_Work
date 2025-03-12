@@ -1,0 +1,1 @@
+To register the API gateway in service to euraka
