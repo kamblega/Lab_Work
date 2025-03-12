@@ -63,3 +63,4 @@ git commit -m "Updating submodule reference for week3"
 git push origin main
 git status
 
+git add . && git commit -m "Uploaded all changes" && git push origin main
