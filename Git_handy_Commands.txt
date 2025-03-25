@@ -45,6 +45,9 @@ M       Lab_3_DM_ORM/mapping
 Switched to branch 'main'
 Your branch is up to date with 'origin/main'.
 
+git pull https://github.com/LBU-SESC/JUnitTestExampleIJ.git --allow-unrelated-histories
+
+
 Gaurav@Gaurav-Laptop MINGW64 ~/Desktop/Study/Study/SEM_2/SCSE/LogBook (main)
 $ git branch
   Lab_3_DM_ORM
@@ -63,4 +66,4 @@ git commit -m "Updating submodule reference for week3"
 git push origin main
 git status
 
-git add . && git commit -m "Uploaded all changes" && git push origin main
+git add . && git commit -m "Uploaded changes" && git push origin main
