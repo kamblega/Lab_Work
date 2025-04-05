@@ -19,7 +19,7 @@ _A project repository for student submissions and collaboration._
 
 ## 📌 Notes
 
-- Used Week 10 Student Repo to save initial development effoets.
+- Used Week 10 Student Repo to save initial development efforts.
 
 # User Story: Student Course Enrollment & Graduation Eligibility
 
@@ -51,7 +51,7 @@ I can view a list of all my enrolled courses in a dedicated "My Enrollments" sec
 - Late book returns (managed by the Library microservice) generate fines, which are then invoiced through the Finance microservice.
 
 Priority: High
-Estimate: 5 Story Points
+- Estimate: 5 Story Points
 
 ### Notes:
 This user story ensures seamless integration between the Student Portal, Finance, and Library microservices.
