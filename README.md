@@ -36,7 +36,7 @@ Course Enrollment:
 
 - Upon successful enrollment in a course, the system sends a request to the Finance microservice, generating an invoice for the student.
 
-I can view a list of all my enrolled courses in a dedicated "My Enrollments" section of the portal.
+- I can view a list of all my enrolled courses in a dedicated "My Enrollments" section of the portal.
 
 ### Graduation Eligibility Check:
 - The system checks for any outstanding invoices via the Finance microservice.
