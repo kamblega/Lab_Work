@@ -1,6 +1,6 @@
 # SCSE Student Project
 _A project repository for student submissions and collaboration._
----
+
 
 ## 📁 Project Structure
 - `src/` – Source code files
@@ -19,4 +19,4 @@ _A project repository for student submissions and collaboration._
 
 ## 📌 Notes
 
-- Used Week 10 Student Repo to save initlite development effoets.
+- Used Week 10 Student Repo to save initial development effoets.
