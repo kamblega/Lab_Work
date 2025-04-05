@@ -27,28 +27,28 @@ _A project repository for student submissions and collaboration._
 
 
 ### As a registered student,
-I want to enroll in courses and check my graduation eligibility,
-So that I can manage my academic progress and ensure I meet graduation requirements.
+- I want to enroll in courses and check my graduation eligibility,
+- So that I can manage my academic progress and ensure I meet graduation requirements.
 
 ### Acceptance Criteria:
 Course Enrollment:
-If it’s my first enrollment, the system should automatically create a student account in the Student Portal.
+- If it’s my first enrollment, the system should automatically create a student account in the Student Portal.
 
-Upon successful enrollment in a course, the system sends a request to the Finance microservice, generating an invoice for the student.
+- Upon successful enrollment in a course, the system sends a request to the Finance microservice, generating an invoice for the student.
 
 I can view a list of all my enrolled courses in a dedicated "My Enrollments" section of the portal.
 
 ### Graduation Eligibility Check:
-The system checks for any outstanding invoices via the Finance microservice.
+- The system checks for any outstanding invoices via the Finance microservice.
 
-If there are no unpaid invoices, I am marked as eligible for graduation.
+- If there are no unpaid invoices, I am marked as eligible for graduation.
 
-If there are unpaid invoices, I will receive a notification listing the outstanding invoices.
+- If there are unpaid invoices, I will receive a notification listing the outstanding invoices.
 
 ### Integration Requirements:
-Student Creation triggers account creation in both Finance and Library microservices.
+- Student Creation triggers account creation in both Finance and Library microservices.
 
-Late book returns (managed by the Library microservice) generate fines, which are then invoiced through the Finance microservice.
+- Late book returns (managed by the Library microservice) generate fines, which are then invoiced through the Finance microservice.
 
 Priority: High
 Estimate: 5 Story Points
