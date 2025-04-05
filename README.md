@@ -1,6 +1,8 @@
 # SCSE Student Project
 _A project repository for student submissions and collaboration._
 
+---
+
 ## 📁 Project Structure
 - `src/` – Source code files
 - `docs/` – Documentation and references
@@ -11,7 +13,7 @@ _A project repository for student submissions and collaboration._
 1. Clone the repo:
    ```bash
    git clone https://github.com/kamblega/SCSE-Student-Project.git
-
+___
 
 ##🛠️ Technologies Used
 Java / Python / Spring Boot (customise as per your actual tech stack)
