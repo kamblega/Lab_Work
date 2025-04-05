@@ -23,7 +23,7 @@ _A project repository for student submissions and collaboration._
 
 # User Story: Student Course Enrollment & Graduation Eligibility
 
-##Title: Enroll in Courses and Check Graduation Eligibility
+## Title: Enroll in Courses and Check Graduation Eligibility
 
 
 ### As a registered student,
