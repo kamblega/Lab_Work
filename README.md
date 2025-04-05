@@ -1,41 +1,22 @@
 # SCSE Student Project
 _A project repository for student submissions and collaboration._
-
 ---
 
 ## 📁 Project Structure
 - `src/` – Source code files
-- `docs/` – Documentation and references
 - `README.md` – Project overview and instructions
 - `.gitignore` – Git ignored files config
 
-## 🚀 Getting Started
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/kamblega/SCSE-Student-Project.git
-___
+## 🚀 Tech Stack
 
-##🛠️ Technologies Used
-Java / Python / Spring Boot (customise as per your actual tech stack)
+- Java (Spring Boot)
+- SQL
 
-Git & GitHub
+## 🤝Contribution Guidelines
 
-Markdown for documentation
+- Dr. Satish Kumar.
+- Dr. Duncan Mullier.
 
-🤝## Contribution Guidelines
-Fork the repository
+## 📌 Notes
 
-Create a new branch: git checkout -b feature-xyz
-
-Commit changes: git commit -m "Add feature xyz"
-
-Push to your branch: git push origin feature-xyz
-
-Submit a Pull Request
-
-📌## Notes
-Please follow naming conventions
-
-Keep commits atomic and well-described
-
-Reach out to Gaurav Kamble for project-related queries	
+- Used Week 10 Student Repo to save initlite development effoets.
